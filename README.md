@@ -1,6 +1,6 @@
 # Data Analysis (Netflix Userbase Dataset)
 
-![Background](data\Image\netflix.jpg)
+![background](data/Image/netflix.jpg)
 
 ***Describe***: This analysis delves into a comprehensive dataset of Netflix users, examining subscription types, monthly revenue, demographics, and key user characteristics. The dataset, featuring columns like User ID, Join Date, and Country, offers insights into patterns that shape the streaming platform's user landscape.  
 
