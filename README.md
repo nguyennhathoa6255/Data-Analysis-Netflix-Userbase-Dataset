@@ -15,7 +15,7 @@
 - Analysis
 - Conclusion and Solution  
 
-See the code in [code.ipynb](https://github.com/nguyennhathoa6255/Data-Analysis-Netflix-Userbase/blob/master/code.ipynb)
+See the code in [main.ipynb](https://github.com/nguyennhathoa6255/Data-Analysis-Netflix-Userbase/blob/master/main.ipynb)
 
 <br>
 ______________________________________________
